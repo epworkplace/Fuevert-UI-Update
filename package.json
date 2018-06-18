@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/kathirr007/emptyGulpWorkFlow.git"
+    "url": "https://github.com/epworkplace/Fuevert-UI-Update.git"
   },
   "keywords": [
     "getStart",
@@ -16,9 +16,9 @@
   "author": "Kathirr007",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kathirr007/emptyGulpWorkFlow.git/issues"
+    "url": "https://github.com/epworkplace/Fuevert-UI-Update.git/issues"
   },
-  "homepage": "https://github.com/kathirr007/emptyGulpWorkFlow.git#readme",
+  "homepage": "https://github.com/epworkplace/Fuevert-UI-Update.git#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "bootstrap": "^4.0.0-beta",
